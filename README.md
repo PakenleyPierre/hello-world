@@ -8,9 +8,9 @@ Personal Bio Webpage
 
 <style>
 Body{
-     background-color: #8080ff; </style>
+     background-color: blue; </style>
 
-<h1 align="center" style="color:black"> Pakenley Christian Pierre </h1>
+<h1 align="center" style="color:white"> Pakenley Christian Pierre </h1>
 
 
 <img align="right" src="https://github.com/Pakman14/hello-world/blob/master/IMG_9529(1).jpg" height="450px" width="400px" 
